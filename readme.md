@@ -45,6 +45,7 @@
 - [`babel-plugin-macros` usage](https://github.com/kentcdodds/babel-plugin-macros/blob/master/other/docs/user.md)
 - Search npm for [keyword:babel-plugin-macros](https://www.npmjs.com/search?q=keywords:babel-plugin-macros) to find macros
 - [Difference between plugins and macros](https://github.com/kentcdodds/babel-plugin-macros#whats-the-difference-between-babel-plugins-and-macros)
+- [Zero-config code transformation with babel-plugin-macros](https://babeljs.io/blog/2017/09/11/zero-config-with-babel-macros)
 
 ### Developing macros
 
