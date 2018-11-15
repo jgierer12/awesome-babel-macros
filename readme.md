@@ -10,6 +10,8 @@
   - [Developing macros](#developing-macros)
 - [Integrations](#integrations)
 
+---
+
 ## Macros
 
 - [`preval.macro`](https://www.npmjs.com/package/preval.macro): Pre-evaluate code
@@ -61,6 +63,8 @@ The following projects include `babel-plugin-macros`, so macros can be used out-
 
 - [Gatsby](https://www.gatsbyjs.org/)
 - [Create React App](https://facebook.github.io/create-react-app/)
+
+---
 
 ## Contribute
 
