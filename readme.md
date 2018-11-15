@@ -50,6 +50,9 @@
 ### Developing macros
 
 - [`babel-plugin-macros` usage for macro authors](https://github.com/kentcdodds/babel-plugin-macros/blob/master/other/docs/author.md)
+- [jamiebuilds/babel-handbook](https://github.com/jamiebuilds/babel-handbook)
+- [Writing custom Babel and ESLint plugins with ASTs](https://kentcdodds.com/talks/#writing-custom-babel-and-eslint-plugins-with-asts)
+- [Code Transformation and Linting](https://kentcdodds.com/workshops/#code-transformation-and-linting)
 
 ## Contribute
 
