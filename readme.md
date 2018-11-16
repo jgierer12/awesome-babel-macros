@@ -14,8 +14,8 @@
 
 ## Macros
 
-- [`preval.macro`](https://www.npmjs.com/package/preval.macro): Pre-evaluate code
-- [`codegen.macro`](https://www.npmjs.com/package/codegen.macro): Generate code
+- [`preval.macro`](https://www.npmjs.com/package/preval.macro): Pre-evaluate code<span id="backlink-1" />[<sup>1</sup>](#footnote-1)
+- [`codegen.macro`](https://www.npmjs.com/package/codegen.macro): Generate code[<sup>1</sup>](#footnote-1)
 - [`import-all.macro`](https://www.npmjs.com/package/import-all.macro): Import all files that match a glob
 - [`tagged-translations`](https://www.npmjs.com/package/tagged-translations): Translate text in React applications
 - [`traph.macro`](https://www.npmjs.com/package/traph.macro): Transform Objects easily, leveraging object getters and graphs
@@ -65,6 +65,10 @@ The following projects include `babel-plugin-macros`, so macros can be used out-
 - [Create React App](https://facebook.github.io/create-react-app/)
 
 ---
+
+## Footnotes
+
+1. <span id="footnote-1" />[`preval` vs `codegen`](https://www.youtube.com/watch?v=1queadQ0048&list=PLV5CVI1eNcJgCrPH_e6d57KRUTiDZgs0u) [:leftwards_arrow_with_hook:](#backlink-1)
 
 ## Contribute
 
