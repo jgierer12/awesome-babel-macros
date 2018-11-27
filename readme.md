@@ -12,7 +12,7 @@
   - [CSS-in-JS](#css-in-js)
   - [GraphQL](#graphql)
 - [Resources](#resources)
-  - [General](#general)
+  - [General](#general-1)
   - [Developing macros](#developing-macros)
 - [Integrations](#integrations)
 
