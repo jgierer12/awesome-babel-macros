@@ -42,6 +42,7 @@
 - [`styled-jsx/macro`](https://www.npmjs.com/package/styled-jsx#using-resolve-as-a-babel-macro): Use [styled-jsx](https://www.npmjs.com/package/styled-jsx)'s `resolve` tag
 - [`styled-components.macro`](https://www.npmjs.com/package/styled-components.macro): Improve the debugging experience and add server-side rendering support to [styled-components](https://www.styled-components.com/)
 - [`babel-plugin-trace/macro`](https://github.com/codemix/babel-plugin-trace): Add labeled statement logging helpers with file- and function name prefix
+- [`hooks.macro`](https://www.npmjs.com/package/hooks.macro): Automatic React Hooks memoization invalidation
 
 ## Resources
 
