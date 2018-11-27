@@ -5,6 +5,12 @@
 ## Contents
 
 - [Macros](#macros)
+  - [General](#general)
+  - [Code generation](#code-generation)
+  - [Development](#development)
+  - [React](#react)
+  - [CSS-in-JS](#css-in-js)
+  - [GraphQL](#graphql)
 - [Resources](#resources)
   - [General](#general)
   - [Developing macros](#developing-macros)
@@ -14,35 +20,52 @@
 
 ## Macros
 
-- [`preval.macro`](https://www.npmjs.com/package/preval.macro): Pre-evaluate code<span id="backlink-1" />[<sup>1</sup>](#footnote-1)
-- [`codegen.macro`](https://www.npmjs.com/package/codegen.macro): Generate code[<sup>1</sup>](#footnote-1)
-- [`import-all.macro`](https://www.npmjs.com/package/import-all.macro): Import all files that match a glob
-- [`tagged-translations`](https://www.npmjs.com/package/tagged-translations): Translate text in React applications
+### General
+
 - [`traph.macro`](https://www.npmjs.com/package/traph.macro): Transform Objects easily, leveraging object getters and graphs
 - [`param.macro`](https://www.npmjs.com/package/param.macro): Partial application syntax and lambda parameters for JavaScript, inspired by Scala's `_` and Kotlin's `it`
 - [`ms.macro`](https://www.npmjs.com/package/ms.macro): Convert various time formats to milliseconds
-- [`react-emotion/macro`](https://emotion.sh/docs/babel-plugin-emotion#babel-macros): Minify and optimize [emotion](https://github.com/emotion-js/emotion) styles
-- [`scope.macro`](https://www.npmjs.com/package/scope.macro): Useful build time console functions
-- [`graphql.macro`](https://github.com/evenchange4/graphql.macro): Compile GraphQL AST
-- [`svgr.macro`](https://github.com/evenchange4/svgr.macro): Run [SVGR](https://github.com/smooth-code/svgr)
-- [`glamorous.macro`](https://github.com/kentcdodds/glamorous.macro): Give your [glamorous](https://github.com/paypal/glamorous) components a nice `displayName` for React DevTools
 - [`raw.macro`](https://github.com/pveyes/raw.macro): Webpack raw-loader
-- [`penv.macro`](https://github.com/chengjianhua/penv.macro): Pick specified value or branch according to the build environment
 - [`lqip.macro`](https://github.com/stereobooster/lqip.macro): Cretes LQIP at build time, similar to webpack [lqip-loader](https://www.npmjs.com/package/lqip-loader)
-- [`dev-console.macro`](https://www.npmjs.com/package/dev-console.macro): Remove all console.log, console.warn and console.error calls from production builds
 - [`data-uri.macro`](https://github.com/Andarist/data-uri.macro): Convert assets to [data URIs](https://developer.mozilla.org/en-US/docs/Web/HTTP/Basics_of_HTTP/Data_URIs)
-- [`css-to-rn.macro`](https://github.com/jhen0409/css-to-rn.macro): Convert CSS to React Native style sheet
 - [`regexgen.macro`](https://github.com/Andarist/regexgen.macro): Convert set of strings to optimized RegExps
 - [`tinker.macro`](https://github.com/bradlc/tinker.macro): Evaluate Laravel code
 - [`@lingui/macro`](https://lingui.js.org/ref/macro.html): Macros for internationalization (i18n) in [LinguiJS](https://github.com/lingui/js-lingui/)
 - [`unique-classname.macro`](https://github.com/huchenme/unique-classname.macro): Generate unique className for emotion
 - [`idx.macro`](https://github.com/dralletje/idx.macro): Traverse properties on objects and arrays
 - [`pipeline.macro`](https://github.com/Andarist/pipeline.macro): Macro working similarly to the pipeline operator
-- [`blade.macro`](https://www.npmjs.com/package/blade.macro): Generate GraphQL query strings inline and solve the [double declaration problem](https://babel-blade.netlify.com/docs/declarationdeclaration.html)
+
+### Code generation
+
+- [`preval.macro`](https://www.npmjs.com/package/preval.macro): Pre-evaluate code<span id="backlink-1" />[<sup>1</sup>](#footnote-1)
+- [`codegen.macro`](https://www.npmjs.com/package/codegen.macro): Generate code[<sup>1</sup>](#footnote-1)
+- [`import-all.macro`](https://www.npmjs.com/package/import-all.macro): Import all files that match a glob
+
+### Development
+
+- [`scope.macro`](https://www.npmjs.com/package/scope.macro): Useful build time console functions
+- [`penv.macro`](https://github.com/chengjianhua/penv.macro): Pick specified value or branch according to the build environment
+- [`dev-console.macro`](https://www.npmjs.com/package/dev-console.macro): Remove all console.log, console.warn and console.error calls from production builds
+- [`babel-plugin-trace/macro`](https://github.com/codemix/babel-plugin-trace): Add labeled statement logging helpers with file- and function name prefix
+
+### React
+
+- [`tagged-translations`](https://www.npmjs.com/package/tagged-translations): Translate text in React applications
+- [`svgr.macro`](https://github.com/evenchange4/svgr.macro): Run [SVGR](https://github.com/smooth-code/svgr)
+- [`css-to-rn.macro`](https://github.com/jhen0409/css-to-rn.macro): Convert CSS to React Native style sheet
+- [`hooks.macro`](https://www.npmjs.com/package/hooks.macro): Automatic React Hooks memoization invalidation
+
+### CSS-in-JS
+
+- [`react-emotion/macro`](https://emotion.sh/docs/babel-plugin-emotion#babel-macros): Minify and optimize [emotion](https://github.com/emotion-js/emotion) styles
+- [`glamorous.macro`](https://github.com/kentcdodds/glamorous.macro): Give your [glamorous](https://github.com/paypal/glamorous) components a nice `displayName` for React DevTools
 - [`styled-jsx/macro`](https://www.npmjs.com/package/styled-jsx#using-resolve-as-a-babel-macro): Use [styled-jsx](https://www.npmjs.com/package/styled-jsx)'s `resolve` tag
 - [`styled-components.macro`](https://www.npmjs.com/package/styled-components.macro): Improve the debugging experience and add server-side rendering support to [styled-components](https://www.styled-components.com/)
-- [`babel-plugin-trace/macro`](https://github.com/codemix/babel-plugin-trace): Add labeled statement logging helpers with file- and function name prefix
-- [`hooks.macro`](https://www.npmjs.com/package/hooks.macro): Automatic React Hooks memoization invalidation
+
+### GraphQL
+
+- [`graphql.macro`](https://github.com/evenchange4/graphql.macro): Compile GraphQL AST
+- [`blade.macro`](https://www.npmjs.com/package/blade.macro): Generate GraphQL query strings inline and solve the [double declaration problem](https://babel-blade.netlify.com/docs/declarationdeclaration.html)
 
 ## Resources
 
