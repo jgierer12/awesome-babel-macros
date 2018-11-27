@@ -31,7 +31,6 @@
 - [`regexgen.macro`](https://github.com/Andarist/regexgen.macro): Convert set of strings to optimized RegExps
 - [`tinker.macro`](https://github.com/bradlc/tinker.macro): Evaluate Laravel code
 - [`@lingui/macro`](https://lingui.js.org/ref/macro.html): Macros for internationalization (i18n) in [LinguiJS](https://github.com/lingui/js-lingui/)
-- [`unique-classname.macro`](https://github.com/huchenme/unique-classname.macro): Generate unique className for emotion
 - [`idx.macro`](https://github.com/dralletje/idx.macro): Traverse properties on objects and arrays
 - [`pipeline.macro`](https://github.com/Andarist/pipeline.macro): Macro working similarly to the pipeline operator
 
@@ -61,6 +60,7 @@
 - [`glamorous.macro`](https://github.com/kentcdodds/glamorous.macro): Give your [glamorous](https://github.com/paypal/glamorous) components a nice `displayName` for React DevTools
 - [`styled-jsx/macro`](https://www.npmjs.com/package/styled-jsx#using-resolve-as-a-babel-macro): Use [styled-jsx](https://www.npmjs.com/package/styled-jsx)'s `resolve` tag
 - [`styled-components.macro`](https://www.npmjs.com/package/styled-components.macro): Improve the debugging experience and add server-side rendering support to [styled-components](https://www.styled-components.com/)
+- [`unique-classname.macro`](https://github.com/huchenme/unique-classname.macro): Generate unique className for emotion
 
 ### GraphQL
 
