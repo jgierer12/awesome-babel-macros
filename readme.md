@@ -59,7 +59,7 @@
 - [`react-emotion/macro`](https://emotion.sh/docs/babel-plugin-emotion#babel-macros): Minify and optimize [emotion](https://github.com/emotion-js/emotion) styles
 - [`glamorous.macro`](https://github.com/kentcdodds/glamorous.macro): Give your [glamorous](https://github.com/paypal/glamorous) components a nice `displayName` for React DevTools
 - [`styled-jsx/macro`](https://www.npmjs.com/package/styled-jsx#using-resolve-as-a-babel-macro): Use [styled-jsx](https://www.npmjs.com/package/styled-jsx)'s `resolve` tag
-- [`styled-components.macro`](https://www.npmjs.com/package/styled-components.macro): Improve the debugging experience and add server-side rendering support to [styled-components](https://www.styled-components.com/)
+- [`styled-components/macro`](https://www.styled-components.com/docs/tooling#babel-macro): Improve the debugging experience and add server-side rendering support to [styled-components](https://www.styled-components.com/)
 - [`unique-classname.macro`](https://github.com/huchenme/unique-classname.macro): Generate unique className for emotion
 
 ### GraphQL
