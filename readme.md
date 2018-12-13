@@ -6,6 +6,7 @@
 
 - [Macros](#macros)
   - [General](#general)
+  - [Object/Array manipulation](#object-array-manipulation)
   - [Code generation](#code-generation)
   - [Development](#development)
   - [React](#react)
@@ -22,17 +23,23 @@
 
 ### General
 
-- [`traph.macro`](https://www.npmjs.com/package/traph.macro): Transform Objects easily, leveraging object getters and graphs
 - [`param.macro`](https://www.npmjs.com/package/param.macro): Partial application syntax and lambda parameters for JavaScript, inspired by Scala's `_` and Kotlin's `it`
 - [`ms.macro`](https://www.npmjs.com/package/ms.macro): Convert various time formats to milliseconds
 - [`raw.macro`](https://github.com/pveyes/raw.macro): Webpack raw-loader
+- [`filesize.macro`](https://www.npmjs.com/package/filesize.macro): Webpack [`filesize-loader`](https://github.com/zouhir/filesize-loader)
 - [`lqip.macro`](https://github.com/stereobooster/lqip.macro): Cretes LQIP at build time, similar to webpack [lqip-loader](https://www.npmjs.com/package/lqip-loader)
 - [`data-uri.macro`](https://github.com/Andarist/data-uri.macro): Convert assets to [data URIs](https://developer.mozilla.org/en-US/docs/Web/HTTP/Basics_of_HTTP/Data_URIs)
 - [`regexgen.macro`](https://github.com/Andarist/regexgen.macro): Convert set of strings to optimized RegExps
 - [`tinker.macro`](https://github.com/bradlc/tinker.macro): Evaluate Laravel code
 - [`@lingui/macro`](https://lingui.js.org/ref/macro.html): Macros for internationalization (i18n) in [LinguiJS](https://github.com/lingui/js-lingui/)
-- [`idx.macro`](https://github.com/dralletje/idx.macro): Traverse properties on objects and arrays
 - [`pipeline.macro`](https://github.com/Andarist/pipeline.macro): Macro working similarly to the pipeline operator
+- [`paths.macro`](https://www.npmjs.com/package/paths.macro): Import paths like `__dirname` and `__filename` as static values
+
+### Object/Array manipulation
+
+- [`traph.macro`](https://www.npmjs.com/package/traph.macro): Transform Objects easily, leveraging object getters and graphs
+- [`idx.macro`](https://github.com/dralletje/idx.macro): Traverse properties on objects and arrays
+- [`assign.macro`](https://www.npmjs.com/package/assign.macro): Transpile `Object.assign`-style expressions to direct assignments for [maximum performance](https://jsperf.com/assign-vs-equals)
 
 ### Code generation
 
@@ -46,6 +53,7 @@
 - [`penv.macro`](https://github.com/chengjianhua/penv.macro): Pick specified value or branch according to the build environment
 - [`dev-console.macro`](https://www.npmjs.com/package/dev-console.macro): Remove all console.log, console.warn and console.error calls from production builds
 - [`babel-plugin-trace/macro`](https://github.com/codemix/babel-plugin-trace): Add labeled statement logging helpers with file- and function name prefix
+- [`inspect.macro`](https://www.npmjs.com/package/inspect.macro): Log an expression and the result of that expression to the console
 
 ### React
 
@@ -53,6 +61,9 @@
 - [`svgr.macro`](https://github.com/evenchange4/svgr.macro): Run [SVGR](https://github.com/smooth-code/svgr)
 - [`css-to-rn.macro`](https://github.com/jhen0409/css-to-rn.macro): Convert CSS to React Native style sheet
 - [`hooks.macro`](https://www.npmjs.com/package/hooks.macro): Automatic React Hooks memoization invalidation
+- [`inline-mdx.macro`](https://www.npmjs.com/package/inline-mdx.macro): Convert MDX into an inline components
+- [`react-broker/macros`](https://www.npmjs.com/package/react-broker): Lazy-load components using React 16.3+
+- [`rpi.macro`](https://www.npmjs.com/package/rpi.macro): Macro for [`react-precious-image`](https://github.com/stereobooster/react-precious-image)
 
 ### CSS-in-JS
 
@@ -61,6 +72,7 @@
 - [`styled-jsx/macro`](https://www.npmjs.com/package/styled-jsx#using-resolve-as-a-babel-macro): Use [styled-jsx](https://www.npmjs.com/package/styled-jsx)'s `resolve` tag
 - [`styled-components/macro`](https://www.styled-components.com/docs/tooling#babel-macro): Improve the debugging experience and add server-side rendering support to [styled-components](https://www.styled-components.com/)
 - [`unique-classname.macro`](https://github.com/huchenme/unique-classname.macro): Generate unique className for emotion
+- [`tailwind.macro`](https://www.npmjs.com/package/tailwind.macro): Use [Tailwind](https://tailwindcss.com/) with any CSS-in-JS library
 
 ### GraphQL
 
