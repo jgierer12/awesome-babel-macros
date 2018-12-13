@@ -6,7 +6,7 @@
 
 - [Macros](#macros)
   - [General](#general)
-  - [Object/Array manipulation](#object-array-manipulation)
+  - [Object/Array manipulation](#objectarray-manipulation)
   - [Code generation](#code-generation)
   - [Development](#development)
   - [React](#react)
