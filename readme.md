@@ -39,7 +39,7 @@
 
 - [`traph.macro`](https://www.npmjs.com/package/traph.macro): Transform Objects easily, leveraging object getters and graphs
 - [`idx.macro`](https://github.com/dralletje/idx.macro): Traverse properties on objects and arrays
-- [`assign.macro`](https://www.npmjs.com/package/assign.macro): Transpile `Object.assign`-style expressions to direct assignments for [maximum performance](https://jsperf.com/assign-vs-equals)
+- [`assign.macro`](https://www.npmjs.com/package/assign.macro): Transpile `Object.assign`-style expressions to direct assignments
 
 ### Code generation
 
