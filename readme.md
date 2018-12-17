@@ -54,7 +54,7 @@
 - [`dev-console.macro`](https://www.npmjs.com/package/dev-console.macro): Remove all console.log, console.warn and console.error calls from production builds
 - [`babel-plugin-trace/macro`](https://github.com/codemix/babel-plugin-trace): Add labeled statement logging helpers with file- and function name prefix
 - [`inspect.macro`](https://www.npmjs.com/package/inspect.macro): Log an expression and the result of that expression to the console
-- [`require-context.macro`](https://github.com/storybooks/require-context.macro): Used to mock webpack's "context"
+- [`require-context.macro`](https://github.com/storybooks/require-context.macro): Mock webpack's `require.context()`
 
 ### React
 
