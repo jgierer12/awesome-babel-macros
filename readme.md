@@ -72,6 +72,7 @@
 - [`glamorous.macro`](https://github.com/kentcdodds/glamorous.macro): Give your [glamorous](https://github.com/paypal/glamorous) components a nice `displayName` for React DevTools
 - [`styled-jsx/macro`](https://www.npmjs.com/package/styled-jsx#using-resolve-as-a-babel-macro): Use [styled-jsx](https://www.npmjs.com/package/styled-jsx)'s `resolve` tag
 - [`styled-components/macro`](https://www.styled-components.com/docs/tooling#babel-macro): Improve the debugging experience and add server-side rendering support to [styled-components](https://www.styled-components.com/)
+- [`styled-import/macro`](https://github.com/glortho/styled-import): Lightweight CSS parser for stealing rules from stylesheets, for use with [styled-components](https://www.styled-components.com/), React, or anywhere else you might be doing CSS in JS -- especially useful for working with global or 3rd-party stylesheets
 - [`unique-classname.macro`](https://github.com/huchenme/unique-classname.macro): Generate unique className for emotion
 - [`tailwind.macro`](https://www.npmjs.com/package/tailwind.macro): Use [Tailwind](https://tailwindcss.com/) with any CSS-in-JS library
 
