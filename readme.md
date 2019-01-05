@@ -65,6 +65,7 @@
 - [`inline-mdx.macro`](https://www.npmjs.com/package/inline-mdx.macro): Convert MDX into an inline components
 - [`react-broker/macros`](https://www.npmjs.com/package/react-broker): Lazy-load components using React 16.3+
 - [`rpi.macro`](https://www.npmjs.com/package/rpi.macro): Macro for [`react-precious-image`](https://github.com/stereobooster/react-precious-image)
+- ['react-hot-reload.macro'](https://www.npmjs.com/package/react-hot-reload.macro): Zero configuration Hot Module Replacement for CRAv2
 
 ### CSS-in-JS
 
