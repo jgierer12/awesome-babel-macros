@@ -6,11 +6,12 @@ project you agree to abide by its terms.
 
 ---
 
-<!--
 Ensure your pull request adheres to the following guidelines:
 
-TODO
--->
+- Links should point to the GitHub repository homepage or the documentation of the macro. If it's part of a larger package, link to the section of the documentation that explains usage as a macro.
+- New items should be added under the appropriate category, or General if they don't match any others.
+- Descriptions should be concise and not longer than one sentence. If possible, write them in the imperative form so they can complete the following sentence:
+  > When applied, this macro will...
 
 Thank you for your suggestions!
 
