@@ -25,13 +25,13 @@
 
 - [`param.macro`](https://www.npmjs.com/package/param.macro): Partial application syntax and lambda parameters for JavaScript, inspired by Scala's `_` and Kotlin's `it`
 - [`ms.macro`](https://www.npmjs.com/package/ms.macro): Convert various time formats to milliseconds
-- [`raw.macro`](https://github.com/pveyes/raw.macro): Webpack raw-loader
-- [`filesize.macro`](https://www.npmjs.com/package/filesize.macro): Webpack [`filesize-loader`](https://github.com/zouhir/filesize-loader)
-- [`lqip.macro`](https://github.com/stereobooster/lqip.macro): Cretes LQIP at build time, similar to webpack [lqip-loader](https://www.npmjs.com/package/lqip-loader)
+- [`raw.macro`](https://github.com/pveyes/raw.macro): Apply webpack's `raw-loader`
+- [`filesize.macro`](https://www.npmjs.com/package/filesize.macro): Apply webpack's [`filesize-loader`](https://github.com/zouhir/filesize-loader)
+- [`lqip.macro`](https://github.com/stereobooster/lqip.macro): Create LQIP at build-time, similar to webpack's [`lqip-loader`](https://www.npmjs.com/package/lqip-loader)
 - [`data-uri.macro`](https://github.com/Andarist/data-uri.macro): Convert assets to [data URIs](https://developer.mozilla.org/en-US/docs/Web/HTTP/Basics_of_HTTP/Data_URIs)
-- [`regexgen.macro`](https://github.com/Andarist/regexgen.macro): Convert set of strings to optimized RegExps
+- [`regexgen.macro`](https://github.com/Andarist/regexgen.macro): Convert set of strings to optimized regular expression
 - [`tinker.macro`](https://github.com/bradlc/tinker.macro): Evaluate Laravel code
-- [`@lingui/macro`](https://lingui.js.org/ref/macro.html): Macros for internationalization (i18n) in [LinguiJS](https://github.com/lingui/js-lingui/)
+- [`@lingui/macro`](https://lingui.js.org/ref/macro.html): Macro for internationalization in [LinguiJS](https://github.com/lingui/js-lingui/)
 - [`pipeline.macro`](https://github.com/Andarist/pipeline.macro): Macro working similarly to the pipeline operator
 - [`paths.macro`](https://www.npmjs.com/package/paths.macro): Import paths like `__dirname` and `__filename` as static values
 
@@ -49,21 +49,21 @@
 
 ### Development
 
-- [`scope.macro`](https://www.npmjs.com/package/scope.macro): Useful build time console functions
+- [`scope.macro`](https://www.npmjs.com/package/scope.macro): Useful build-time console functions
 - [`penv.macro`](https://github.com/chengjianhua/penv.macro): Pick specified value or branch according to the build environment
-- [`dev-console.macro`](https://www.npmjs.com/package/dev-console.macro): Remove all console.log, console.warn and console.error calls from production builds
-- [`babel-plugin-trace/macro`](https://github.com/codemix/babel-plugin-trace): Add labeled statement logging helpers with file- and function name prefix
+- [`dev-console.macro`](https://www.npmjs.com/package/dev-console.macro): Remove all `console.log`, `console.warn` and `console.error` calls from production builds
+- [`babel-plugin-trace/macro`](https://github.com/codemix/babel-plugin-trace): Add labeled statement logging helpers with file and function name prefix
 - [`inspect.macro`](https://www.npmjs.com/package/inspect.macro): Log an expression and the result of that expression to the console
 - [`require-context.macro`](https://github.com/storybooks/require-context.macro): Mock webpack's `require.context()`
 
 ### React
 
 - [`tagged-translations`](https://www.npmjs.com/package/tagged-translations): Translate text in React applications
-- [`svgr.macro`](https://github.com/evenchange4/svgr.macro): Run [SVGR](https://github.com/smooth-code/svgr)
+- [`svgr.macro`](https://github.com/evenchange4/svgr.macro): Apply [SVGR](https://github.com/smooth-code/svgr)
 - [`css-to-rn.macro`](https://github.com/jhen0409/css-to-rn.macro): Convert CSS to React Native style sheet
 - [`hooks.macro`](https://www.npmjs.com/package/hooks.macro): Automatic React Hooks memoization invalidation
-- [`inline-mdx.macro`](https://www.npmjs.com/package/inline-mdx.macro): Convert MDX into an inline components
-- [`react-broker/macros`](https://www.npmjs.com/package/react-broker): Lazy-load components using React 16.3+
+- [`inline-mdx.macro`](https://www.npmjs.com/package/inline-mdx.macro): Convert MDX into inline components
+- [`react-broker/macros`](https://www.npmjs.com/package/react-broker): Lazy-load React components
 - [`rpi.macro`](https://www.npmjs.com/package/rpi.macro): Macro for [`react-precious-image`](https://github.com/stereobooster/react-precious-image)
 - [`react-hot-reload.macro`](https://www.npmjs.com/package/react-hot-reload.macro): Zero configuration Hot Module Replacement for CRAv2
 - [`mdi-norm/macro`](https://github.com/eugeneilyin/mdi-norm#with-babel-macros): Embed Material Design system SVG icons
@@ -76,6 +76,8 @@
 - [`styled-components/macro`](https://www.styled-components.com/docs/tooling#babel-macro): Improve the debugging experience and add server-side rendering support to [styled-components](https://www.styled-components.com/)
 - [`styled-import/macro`](https://github.com/glortho/styled-import): Lightweight CSS parser for stealing rules from stylesheets, for use with [styled-components](https://www.styled-components.com/), React, or anywhere else you might be doing CSS in JS -- especially useful for working with global or 3rd-party stylesheets
 - [`unique-classname.macro`](https://github.com/huchenme/unique-classname.macro): Generate unique className for emotion
+- [`styled-components/macro`](https://www.styled-components.com/docs/tooling#babel-macro): Improve debugging experience and add server-side rendering support to [styled-components](https://www.styled-components.com/)
+- [`unique-classname.macro`](https://github.com/huchenme/unique-classname.macro): Generate unique `className`s for emotion
 - [`tailwind.macro`](https://www.npmjs.com/package/tailwind.macro): Use [Tailwind](https://tailwindcss.com/) with any CSS-in-JS library
 
 ### GraphQL
@@ -101,7 +103,7 @@
 
 ## Integrations
 
-The following projects include `babel-plugin-macros`, so macros can be used out-of-the-box without additional configuration:
+The following projects include `babel-plugin-macros`, so macros can be used out of the box without additional configuration:
 
 - [Gatsby](https://www.gatsbyjs.org/)
 - [Create React App](https://facebook.github.io/create-react-app/)
