@@ -34,6 +34,8 @@
 - [`@lingui/macro`](https://lingui.js.org/ref/macro.html): Macro for internationalization in [LinguiJS](https://github.com/lingui/js-lingui/)
 - [`pipeline.macro`](https://github.com/Andarist/pipeline.macro): Macro working similarly to the pipeline operator
 - [`paths.macro`](https://www.npmjs.com/package/paths.macro): Import paths like `__dirname` and `__filename` as static values
+- [`for-own.macro`](https://github.com/nicolo-ribaudo/for-own.macro): Make `for-in` only visit own properties
+- [`ts-nameof.macro`](https://github.com/dsherret/ts-nameof/tree/master/packages/ts-nameof.macro): [`nameof`](https://msdn.microsoft.com/en-us/library/dn986596.aspx) in TypeScript
 
 ### Object/Array manipulation
 
