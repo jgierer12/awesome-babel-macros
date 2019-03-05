@@ -37,7 +37,7 @@
 - [`for-own.macro`](https://github.com/nicolo-ribaudo/for-own.macro): Make `for-in` only visit own properties
 - [`ts-nameof.macro`](https://github.com/dsherret/ts-nameof/tree/master/packages/ts-nameof.macro): [`nameof`](https://msdn.microsoft.com/en-us/library/dn986596.aspx) in TypeScript
 
-### Object/Array manipulationd
+### Object/Array manipulation
 
 - [`traph.macro`](https://www.npmjs.com/package/traph.macro): Transform Objects easily, leveraging object getters and graphs
 - [`idx.macro`](https://github.com/dralletje/idx.macro): Traverse properties on objects and arrays
