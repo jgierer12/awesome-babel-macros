@@ -36,6 +36,7 @@
 - [`paths.macro`](https://www.npmjs.com/package/paths.macro): Import paths like `__dirname` and `__filename` as static values
 - [`for-own.macro`](https://github.com/nicolo-ribaudo/for-own.macro): Make `for-in` only visit own properties
 - [`ts-nameof.macro`](https://github.com/dsherret/ts-nameof/tree/master/packages/ts-nameof.macro): [`nameof`](https://msdn.microsoft.com/en-us/library/dn986596.aspx) in TypeScript
+- [`files.raw`](https://github.com/ridermansb/files.macro): Read files name and  transform into array of string with file names
 
 ### Object/Array manipulation
 
