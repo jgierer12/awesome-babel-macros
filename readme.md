@@ -37,6 +37,7 @@
 - [`for-own.macro`](https://github.com/nicolo-ribaudo/for-own.macro): Make `for-in` only visit own properties
 - [`ts-nameof.macro`](https://github.com/dsherret/ts-nameof/tree/master/packages/ts-nameof.macro): [`nameof`](https://msdn.microsoft.com/en-us/library/dn986596.aspx) in TypeScript
 - [`files.raw`](https://github.com/ridermansb/files.macro): Read files name and  transform into array of string with file names
+- [`flavors.macro`](https://github.com/gnithin/flavors.macro): Build different flavors of an app by manipulating import headers
 
 ### Object/Array manipulation
 
@@ -79,8 +80,6 @@
 - [`styled-components/macro`](https://www.styled-components.com/docs/tooling#babel-macro): Improve the debugging experience and add server-side rendering support to [styled-components](https://www.styled-components.com/)
 - [`styled-import/macro`](https://github.com/glortho/styled-import): Lightweight CSS parser for stealing rules from stylesheets, for use with [styled-components](https://www.styled-components.com/), React, or anywhere else you might be doing CSS in JS -- especially useful for working with global or 3rd-party stylesheets
 - [`unique-classname.macro`](https://github.com/huchenme/unique-classname.macro): Generate unique className for emotion
-- [`styled-components/macro`](https://www.styled-components.com/docs/tooling#babel-macro): Improve debugging experience and add server-side rendering support to [styled-components](https://www.styled-components.com/)
-- [`unique-classname.macro`](https://github.com/huchenme/unique-classname.macro): Generate unique `className`s for emotion
 - [`tailwind.macro`](https://www.npmjs.com/package/tailwind.macro): Use [Tailwind](https://tailwindcss.com/) with any CSS-in-JS library
 
 ### GraphQL
