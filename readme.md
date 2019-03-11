@@ -62,6 +62,7 @@
 
 ### React
 
+- [`Tersus-JSX`](https://www.npmjs.com/package/tersus-jsx.macro): Inspired by AngularJS, ng-if (use tj-if) and ng-repeat (use tj-for) for neater JSX in React
 - [`tagged-translations`](https://www.npmjs.com/package/tagged-translations): Translate text in React applications
 - [`svgr.macro`](https://github.com/evenchange4/svgr.macro): Apply [SVGR](https://github.com/smooth-code/svgr)
 - [`css-to-rn.macro`](https://github.com/jhen0409/css-to-rn.macro): Convert CSS to React Native style sheet
