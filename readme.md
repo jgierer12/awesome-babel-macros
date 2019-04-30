@@ -72,6 +72,7 @@
 - [`rpi.macro`](https://www.npmjs.com/package/rpi.macro): Macro for [`react-precious-image`](https://github.com/stereobooster/react-precious-image)
 - [`react-hot-reload.macro`](https://www.npmjs.com/package/react-hot-reload.macro): Zero configuration Hot Module Replacement for CRAv2
 - [`mdi-norm/macro`](https://github.com/eugeneilyin/mdi-norm#with-babel-macros): Embed Material Design system SVG icons
+- [`reactive.macro`](https://github.com/yesmeck/reactive.macro): Reduce React boilerplate
 
 ### CSS-in-JS
 
