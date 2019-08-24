@@ -6,6 +6,7 @@
 
 - [Macros](#macros)
   - [General](#general)
+  - [File loading](#file-loading)
   - [Object/Array manipulation](#objectarray-manipulation)
   - [Code generation](#code-generation)
   - [Development](#development)
@@ -25,9 +26,6 @@
 
 - [`param.macro`](https://www.npmjs.com/package/param.macro): Partial application syntax and lambda parameters for JavaScript, inspired by Scala's `_` and Kotlin's `it`
 - [`ms.macro`](https://www.npmjs.com/package/ms.macro): Convert various time formats to milliseconds
-- [`raw.macro`](https://github.com/pveyes/raw.macro): Apply webpack's `raw-loader`
-- [`filesize.macro`](https://www.npmjs.com/package/filesize.macro): Apply webpack's [`filesize-loader`](https://github.com/zouhir/filesize-loader)
-- [`lqip.macro`](https://github.com/stereobooster/lqip.macro): Create LQIP at build-time, similar to webpack's [`lqip-loader`](https://www.npmjs.com/package/lqip-loader)
 - [`data-uri.macro`](https://github.com/Andarist/data-uri.macro): Convert assets to [data URIs](https://developer.mozilla.org/en-US/docs/Web/HTTP/Basics_of_HTTP/Data_URIs)
 - [`regexgen.macro`](https://github.com/Andarist/regexgen.macro): Convert set of strings to optimized regular expression
 - [`tinker.macro`](https://github.com/bradlc/tinker.macro): Evaluate Laravel code
@@ -38,6 +36,12 @@
 - [`ts-nameof.macro`](https://github.com/dsherret/ts-nameof/tree/master/packages/ts-nameof.macro): [`nameof`](https://msdn.microsoft.com/en-us/library/dn986596.aspx) in TypeScript
 - [`files.macro`](https://github.com/ridermansb/files.macro): Transform directory into array of file names
 - [`flavors.macro`](https://github.com/gnithin/flavors.macro): Build different flavors of an app by manipulating import headers
+
+### File loading
+
+- [`filesize.macro`](https://www.npmjs.com/package/filesize.macro): Apply webpack's [`filesize-loader`](https://github.com/zouhir/filesize-loader)
+- [`lqip.macro`](https://github.com/stereobooster/lqip.macro): Create LQIP at build-time, similar to webpack's [`lqip-loader`](https://www.npmjs.com/package/lqip-loader)
+- [`raw.macro`](https://github.com/pveyes/raw.macro): Apply webpack's `raw-loader`
 - [`yaml.macro`](https://www.npmjs.com/package/yaml.macro): Load YAML files as pre-parsed objects
 
 ### Object/Array manipulation
