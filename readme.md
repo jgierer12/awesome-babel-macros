@@ -37,6 +37,10 @@
 - [`files.macro`](https://github.com/ridermansb/files.macro): Transform directory into array of file names
 - [`flavors.macro`](https://github.com/gnithin/flavors.macro): Build different flavors of an app by manipulating import headers
 - [`yaml.macro`](https://www.npmjs.com/package/yaml.macro): Load YAML files as pre-parsed objects
+- [`yaml-to-js.macro`](https://www.npmjs.com/package/yaml-to-js.macro): Convert yaml template strings to javascript objects at build time.
+- [`@ts-delight/if-expr.macro`](https://www.npmjs.com/package/@ts-delight/if-expr.macro): Expression-oriented fluent alternative to javascript's if-statement that compiles away to ternary expressions
+- [`@ts-delight/switch-expr.macro`](https://www.npmjs.com/package/@ts-delight/switch-expr.macro): An expression-oriented fluent alternative to javascript's switch-statement that compiles away to ternary expressions
+- [`@ts-delight/async-to-generator.macro`](https://www.npmjs.com/package/@ts-delight/async-to-generator.macro): Transform async functions to generator functions.
 
 ### File loading
 
@@ -65,6 +69,7 @@
 - [`babel-plugin-trace/macro`](https://github.com/codemix/babel-plugin-trace): Add labeled statement logging helpers with file and function name prefix
 - [`inspect.macro`](https://www.npmjs.com/package/inspect.macro): Log an expression and the result of that expression to the console
 - [`require-context.macro`](https://github.com/storybooks/require-context.macro): Mock webpack's `require.context()`
+- [`@ts-delight/debug.macro`](https://www.npmjs.com/package/@ts-delight/debug.macro): Make usage of [visionmedia/debug](https://github.com/visionmedia/debug) more convenient through build time enhancements.
 
 ### React
 
@@ -79,6 +84,8 @@
 - [`react-hot-reload.macro`](https://www.npmjs.com/package/react-hot-reload.macro): Zero configuration Hot Module Replacement for CRAv2
 - [`mdi-norm/macro`](https://github.com/eugeneilyin/mdi-norm#with-babel-macros): Embed Material Design system SVG icons
 - [`reactive.macro`](https://github.com/yesmeck/reactive.macro): Reduce React boilerplate
+- [`@ts-delight/inject-display-name.macro`](https://github.com/ts-delight/inject-display-name.macro): Inject display name into dynamically constructed components
+- [`@ts-delight/fluent-react.macro`](https://www.npmjs.com/package/@ts-delight/fluent-react.macro): Fluent, Terse and Type-safe alternative to JSX for React
 
 ### CSS-in-JS
 
