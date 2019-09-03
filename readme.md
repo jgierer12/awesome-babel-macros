@@ -38,6 +38,7 @@
 - [`flavors.macro`](https://github.com/gnithin/flavors.macro): Build different flavors of an app by manipulating import headers
 - [`yaml.macro`](https://www.npmjs.com/package/yaml.macro): Load YAML files as pre-parsed objects
 - [`yaml-to-js.macro`](https://www.npmjs.com/package/yaml-to-js.macro): Convert yaml template strings to javascript objects at build time.
+- [`@ts-delight/pipe.macro`](https://www.npmjs.com/package/@ts-delight/pipe.macro): TypeScript friendly fluent pipeline API with support for async steps, additional arguments, early returns and reconciliation.
 - [`@ts-delight/if-expr.macro`](https://www.npmjs.com/package/@ts-delight/if-expr.macro): Expression-oriented fluent alternative to javascript's if-statement that compiles away to ternary expressions
 - [`@ts-delight/switch-expr.macro`](https://www.npmjs.com/package/@ts-delight/switch-expr.macro): An expression-oriented fluent alternative to javascript's switch-statement that compiles away to ternary expressions
 - [`@ts-delight/async-to-generator.macro`](https://www.npmjs.com/package/@ts-delight/async-to-generator.macro): Transform async functions to generator functions.
