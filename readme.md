@@ -87,6 +87,7 @@
 - [`reactive.macro`](https://github.com/yesmeck/reactive.macro): Reduce React boilerplate
 - [`@ts-delight/inject-display-name.macro`](https://github.com/ts-delight/inject-display-name.macro): Inject display name into dynamically constructed components
 - [`@ts-delight/fluent-react.macro`](https://www.npmjs.com/package/@ts-delight/fluent-react.macro): Fluent, Terse and Type-safe alternative to JSX for React
+- [`react-css-modules.macro`](https://github.com/bohdanbirdie/react-css-modules.macro): Map CSS Modules to `styleName` property
 
 ### CSS-in-JS
 
