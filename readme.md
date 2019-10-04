@@ -6,6 +6,7 @@
 
 - [Macros](#macros)
   - [General](#general)
+  - [Object lifetime / memory management](#object-lifetime-/-memory-management)
   - [File loading](#file-loading)
   - [Object/Array manipulation](#objectarray-manipulation)
   - [Code generation](#code-generation)
