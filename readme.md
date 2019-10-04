@@ -44,7 +44,7 @@
 - [`@ts-delight/async-to-generator.macro`](https://www.npmjs.com/package/@ts-delight/async-to-generator.macro): Transform async functions to generator functions
 
 ### Object lifetime / memory management
-- [`using.macro`](https://github.com/Veetaha/using.macro): Dispose local handles automatically with C# - like [`using` declaration](https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/proposals/csharp-8.0/using) in TypeScript/JavaScript.
+- [`using.macro`](https://github.com/Veetaha/using.macro): Wrap your resource handles into try-finally blocks automatically similar to C# [using declaration](https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/proposals/csharp-8.0/using#using-declaration) style.
 
 ### File loading
 
