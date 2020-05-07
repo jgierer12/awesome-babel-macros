@@ -53,6 +53,7 @@
 - [`lqip.macro`](https://github.com/stereobooster/lqip.macro): Create LQIP at build-time, similar to webpack's [`lqip-loader`](https://www.npmjs.com/package/lqip-loader)
 - [`raw.macro`](https://github.com/pveyes/raw.macro): Apply webpack's `raw-loader`
 - [`yaml.macro`](https://www.npmjs.com/package/yaml.macro): Load YAML files as pre-parsed objects
+- [`json.macro`](https://github.com/ifiokjr/json.macro): Load JSON files individually or by pattern matching, with special support for package.json, version and tsconfig files.
 
 ### Object/Array manipulation
 
