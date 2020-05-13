@@ -102,7 +102,7 @@
 - [`styled-components/macro`](https://www.styled-components.com/docs/tooling#babel-macro): Improve the debugging experience and add server-side rendering support to [styled-components](https://www.styled-components.com/)
 - [`styled-import/macro`](https://github.com/glortho/styled-import): Lightweight CSS parser for stealing rules from stylesheets, for use with [styled-components](https://www.styled-components.com/), React, or anywhere else you might be doing CSS in JS -- especially useful for working with global or 3rd-party stylesheets
 - [`unique-classname.macro`](https://github.com/huchenme/unique-classname.macro): Generate unique className for emotion
-- [`tailwind.macro`](https://www.npmjs.com/package/tailwind.macro): Use [Tailwind](https://tailwindcss.com/) with any CSS-in-JS library
+- [`twin.macro`](https://github.com/ben-rogerson/twin.macro): Alternative and more up-to-date solution to [Tailwind](https://tailwindcss.com/) as a macro.
 
 ### GraphQL
 
