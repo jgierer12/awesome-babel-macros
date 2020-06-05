@@ -37,7 +37,6 @@
 - [`ts-nameof.macro`](https://github.com/dsherret/ts-nameof/tree/master/packages/ts-nameof.macro): [`nameof`](https://msdn.microsoft.com/en-us/library/dn986596.aspx) in TypeScript
 - [`files.macro`](https://github.com/ridermansb/files.macro): Transform directory into array of file names
 - [`flavors.macro`](https://github.com/gnithin/flavors.macro): Build different flavors of an app by manipulating import headers
-- [`yaml.macro`](https://github.com/eemeli/yaml.macro): Load YAML files as pre-parsed objects
 - [`yaml-to-js.macro`](https://github.com/lorefnon/yaml-to-js.macro): Convert yaml template strings to javascript objects at build time
 - [`@ts-delight/pipe.macro`](https://github.com/ts-delight/pipe.macro): TypeScript friendly fluent pipeline API with support for async steps, additional arguments, early returns and reconciliation
 - [`@ts-delight/if-expr.macro`](https://github.com/ts-delight/if-expr.macro): Expression-oriented fluent alternative to javascript's if-statement that compiles away to ternary expressions
