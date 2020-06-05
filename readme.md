@@ -50,7 +50,6 @@
 
 ### File loading
 
-- [`filesize.macro`](https://github.com/stereobooster/filesize.macro): Apply webpack's [`filesize-loader`](https://github.com/zouhir/filesize-loader)
 - [`lqip.macro`](https://github.com/stereobooster/lqip.macro): Create LQIP at build-time, similar to webpack's [`lqip-loader`](https://github.com/zouhir/lqip-loader)
 - [`raw.macro`](https://github.com/pveyes/raw.macro): Apply webpack's `raw-loader`
 - [`yaml.macro`](https://github.com/eemeli/yaml.macro): Load YAML files as pre-parsed objects
@@ -70,7 +69,6 @@
 
 ### Development
 
-- [`scope.macro`](https://www.npmjs.com/package/scope.macro): Useful build-time console functions
 - [`penv.macro`](https://github.com/chengjianhua/penv.macro): Pick specified value or branch according to the build environment
 - [`dev-console.macro`](https://github.com/eemeli/dev-console.macro): Remove all `console.log`, `console.warn` and `console.error` calls from production builds
 - [`babel-plugin-trace/macro`](https://github.com/codemix/babel-plugin-trace): Add labeled statement logging helpers with file and function name prefix
@@ -88,11 +86,9 @@
 - [`inline-mdx.macro`](https://github.com/hamlim/inline-mdx.macro): Convert MDX into inline components
 - [`react-broker/macros`](https://github.com/jaredLunde/react-broker): Lazy-load React components
 - [`rpi.macro`](https://github.com/stereobooster/rpi.macro): Macro for [`react-precious-image`](https://github.com/stereobooster/react-precious-image)
-- [`react-hot-reload.macro`](https://www.npmjs.com/package/react-hot-reload.macro): Zero configuration Hot Module Replacement for CRAv2
 - [`mdi-norm/macro`](https://github.com/eugeneilyin/mdi-norm#with-babel-macros): Embed Material Design system SVG icons
 - [`reactive.macro`](https://github.com/yesmeck/reactive.macro): Reduce React boilerplate
 - [`@ts-delight/inject-display-name.macro`](https://github.com/ts-delight/inject-display-name.macro): Inject display name into dynamically constructed components
-- [`@ts-delight/fluent-react.macro`](https://www.npmjs.com/package/@ts-delight/fluent-react.macro): Fluent, Terse and Type-safe alternative to JSX for React
 - [`react-css-modules.macro`](https://github.com/bohdanbirdie/react-css-modules.macro): Map CSS Modules to `styleName` property
 
 ### CSS-in-JS
