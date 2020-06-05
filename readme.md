@@ -43,9 +43,6 @@
 - [`@ts-delight/if-expr.macro`](https://github.com/ts-delight/if-expr.macro): Expression-oriented fluent alternative to javascript's if-statement that compiles away to ternary expressions
 - [`@ts-delight/switch-expr.macro`](https://github.com/ts-delight/switch-expr.macro): An expression-oriented fluent alternative to javascript's switch-statement that compiles away to ternary expressions
 - [`@ts-delight/async-to-generator.macro`](https://github.com/ts-delight/async-to-generator.macro): Transform async functions to generator functions
-
-### Object lifetime / memory management
-
 - [`using.macro`](https://github.com/Veetaha/using.macro): Wrap your resource handles into try-finally blocks automatically similarly to C# [using declaration](https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/proposals/csharp-8.0/using#using-declaration) style.
 
 ### File loading
