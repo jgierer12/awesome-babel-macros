@@ -123,15 +123,14 @@
 
 - [`babel-plugin-macros` usage for macro authors](https://github.com/kentcdodds/babel-plugin-macros/blob/master/other/docs/author.md)
 - [jamiebuilds/babel-handbook](https://github.com/jamiebuilds/babel-handbook)
-- [Writing custom Babel and ESLint plugins with ASTs](https://kentcdodds.com/talks/#writing-custom-babel-and-eslint-plugins-with-asts)
-- [Code Transformation and Linting](https://kentcdodds.com/workshops/#code-transformation-and-linting)
+- [Writing custom Babel and ESLint plugins with ASTs](https://kentcdodds.com/talks/#writing-custom-babel-and-es-lint-plugins-with-as-ts)
 
 ## Integrations
 
 The following projects include `babel-plugin-macros`, so macros can be used out of the box without additional configuration:
 
 - [Gatsby](https://www.gatsbyjs.org/)
-- [Create React App](https://facebook.github.io/create-react-app/)
+- [Create React App](https://create-react-app.dev/)
 
 ---
 
