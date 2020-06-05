@@ -48,6 +48,7 @@
 
 - [`using.macro`](https://github.com/Veetaha/using.macro): Wrap your resource handles into try-finally blocks automatically similarly to C# [using declaration](https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/proposals/csharp-8.0/using#using-declaration) style
 - [`inline-loops.macro`](https://github.com/planttheidea/inline-loops.macro): Inline to native loops for performance
+- [`assign.macro`](https://github.com/vincentriemer/assign.macro): Transpile `Object.assign`-style expressions to direct assignments
 
 ### File loading
 
@@ -60,7 +61,6 @@
 
 - [`traph.macro`](https://github.com/caesarsol/traph.macro): Transform Objects easily, leveraging object getters and graphs
 - [`idx.macro`](https://github.com/dralletje/idx.macro): Traverse properties on objects and arrays
-- [`assign.macro`](https://github.com/vincentriemer/assign.macro): Transpile `Object.assign`-style expressions to direct assignments
 
 ### Code generation
 
