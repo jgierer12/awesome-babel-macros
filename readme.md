@@ -9,6 +9,7 @@
   - [Performance and Memory management](#performance-and-memory-management)
   - [File loading](#file-loading)
   - [Object/Array manipulation](#objectarray-manipulation)
+  - [Typescript](#typescript)
   - [Code generation](#code-generation)
   - [Development](#development)
   - [React](#react)
@@ -61,6 +62,9 @@
 
 - [`traph.macro`](https://github.com/caesarsol/traph.macro): Transform Objects easily, leveraging object getters and graphs
 - [`idx.macro`](https://github.com/dralletje/idx.macro): Traverse properties on objects and arrays
+
+### Typescript
+- [`typecheck.macro`](https://github.com/vedantroy/typecheck.macro): Automatically generate type-checker functions for Typescript types.
 
 ### Code generation
 
