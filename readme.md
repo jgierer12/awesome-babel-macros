@@ -9,7 +9,7 @@
   - [Performance and Memory management](#performance-and-memory-management)
   - [File loading](#file-loading)
   - [Object/Array manipulation](#objectarray-manipulation)
-  - [Typescript](#typescript)
+  - [TypeScript](#typescript)
   - [Code generation](#code-generation)
   - [Development](#development)
   - [React](#react)
@@ -35,7 +35,6 @@
 - [`pipeline.macro`](https://github.com/Andarist/pipeline.macro): Macro working similarly to the pipeline operator
 - [`paths.macro`](https://github.com/storybookjs/paths.macro): Import paths like `__dirname` and `__filename` as static values
 - [`for-own.macro`](https://github.com/nicolo-ribaudo/for-own.macro): Make `for-in` only visit own properties
-- [`ts-nameof.macro`](https://github.com/dsherret/ts-nameof/tree/master/packages/ts-nameof.macro): [`nameof`](https://msdn.microsoft.com/en-us/library/dn986596.aspx) in TypeScript
 - [`files.macro`](https://github.com/ridermansb/files.macro): Transform directory into array of file names
 - [`flavors.macro`](https://github.com/gnithin/flavors.macro): Build different flavors of an app by manipulating import headers
 - [`yaml-to-js.macro`](https://github.com/lorefnon/yaml-to-js.macro): Convert yaml template strings to javascript objects at build time
@@ -63,8 +62,9 @@
 - [`traph.macro`](https://github.com/caesarsol/traph.macro): Transform Objects easily, leveraging object getters and graphs
 - [`idx.macro`](https://github.com/dralletje/idx.macro): Traverse properties on objects and arrays
 
-### Typescript
-- [`typecheck.macro`](https://github.com/vedantroy/typecheck.macro): Automatically generate type-checker functions for Typescript types.
+### TypeScript
+- [`typecheck.macro`](https://github.com/vedantroy/typecheck.macro): Automatically generate type-checker functions for TypeScript types
+- [`ts-nameof.macro`](https://github.com/dsherret/ts-nameof/tree/master/packages/ts-nameof.macro): [`nameof`](https://msdn.microsoft.com/en-us/library/dn986596.aspx) in TypeScript
 
 ### Code generation
 
