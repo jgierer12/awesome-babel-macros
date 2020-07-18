@@ -43,6 +43,7 @@
 - [`@ts-delight/switch-expr.macro`](https://github.com/ts-delight/switch-expr.macro): An expression-oriented fluent alternative to javascript's switch-statement that compiles away to ternary expressions
 - [`@ts-delight/async-to-generator.macro`](https://github.com/ts-delight/async-to-generator.macro): Transform async functions to generator functions
 - [`fast-fp.macro`](https://github.com/rakeshpai/fast-fp.macro): Zero overhead functional programming library
+- [`return.macro`](https://github.com/proteriax/return.macro): Kotlin’s early-return guard `?: return` in JavaScript
 
 ### Performance and Memory management
 
