@@ -57,6 +57,7 @@
 - [`raw.macro`](https://github.com/pveyes/raw.macro): Apply webpack's `raw-loader`
 - [`yaml.macro`](https://github.com/eemeli/yaml.macro): Load YAML files as pre-parsed objects
 - [`json.macro`](https://github.com/ifiokjr/json.macro): Load JSON files individually or by pattern matching, with special support for package.json, version and tsconfig files.
+- [`fetch.macro`](https://github.com/r17x/fetch.macro): Allows you to build fetcher function by URL at compile-time.
 
 ### Object/Array manipulation
 
