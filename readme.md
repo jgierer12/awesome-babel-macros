@@ -107,6 +107,7 @@
 - [`styled-import/macro`](https://github.com/glortho/styled-import): Lightweight CSS parser for stealing rules from stylesheets, for use with [styled-components](https://www.styled-components.com/), React, or anywhere else you might be doing CSS in JS -- especially useful for working with global or 3rd-party stylesheets
 - [`unique-classname.macro`](https://github.com/huchenme/unique-classname.macro): Generate unique className for emotion
 - [`twin.macro`](https://github.com/ben-rogerson/twin.macro): Alternative and more up-to-date solution to [Tailwind](https://tailwindcss.com/) as a macro
+- [`cssed/macro`](https://github.com/okotoki/cssed): 🤷‍♂️ CSS-in-JS modules that lets you write CSS in JS. That's it, no gimmicks
 
 ### GraphQL
 
